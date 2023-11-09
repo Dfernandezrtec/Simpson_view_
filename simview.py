@@ -7,8 +7,8 @@ v1.0 by Zdeněk Tošner
 v1.1 added shortcut to almost all functions for faster workflow.
 """
 # Enter simpson executable related information here
-SIMPSON_EXECUTABLE=""
-SIMPSON_TCL_LIBRARY=""
+SIMPSON_EXECUTABLE="C:\Program Files (x86)\SIMPSON\simpson.exe"
+SIMPSON_TCL_LIBRARY="C:\Program Files (x86)\SIMPSON\tcl8.6"
 SIMPSON_LD_LIBRARY_PATH=""
 SIMPSON_EXAMPLES_PATH="C:\\data\\workspace\\simpson_GUI\\newer\\examples"
 LOCALE_ENCODING="cp852"  # to find out on windows, execute in cmd.exe command chcp
