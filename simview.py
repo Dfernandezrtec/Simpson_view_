@@ -11,7 +11,7 @@ SIMPSON_EXECUTABLE="C:\Program Files (x86)\SIMPSON\simpson.exe"
 SIMPSON_TCL_LIBRARY="C:\Program Files (x86)\SIMPSON\tcl8.6"
 SIMPSON_LD_LIBRARY_PATH=""
 SIMPSON_EXAMPLES_PATH="C:\\data\\workspace\\simpson_GUI\\newer\\examples"
-LOCALE_ENCODING="cp852"  # to find out on windows, execute in cmd.exe command chcp
+LOCALE_ENCODING="chcp"  # to find out on windows, execute in cmd.exe command chcp
 
 #These settings worked flawlessly on a fresh Ubuntu 21.04 install
 
